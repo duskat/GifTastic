@@ -2,6 +2,7 @@ div.gif-images{
     margin: auto;
     float: left;
     display: block;
+    position: relative;
 }
 
 .addedGifs{
@@ -18,5 +19,6 @@ div.gif-images{
 }
 
 .btn-group-xs>.btn, .btn-xs{
-    margin: 5px;
+    position: absolute;
+    margin: 15px;
 }
